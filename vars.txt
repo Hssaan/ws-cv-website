@@ -1,0 +1,85 @@
+
+object cv
+{
+website name: 100 char
+favico: image
+hero image: image
+}
+
+object : menu - unlimted
+{
+order: int
+name: 20 char
+}
+
+
+
+object : basic
+{
+personal image: image
+bio: 1000 char
+AGE: int
+EMAIL: 50 char
+PHONE: int
+ADDRESS: 200 char
+LANGUAGE: 50 char
+downlad
+}
+
+
+object : skills  - unlmited
+{
+each skill has
+{
+name: 50 char
+percntage: int
+}
+
+
+object : works  - unlmited
+{
+each work has
+{
+name: 50 char
+brif: int
+}
+
+
+object: experiences - unlmited
+{
+each experience has
+{
+company : 100 char
+date from to: char
+popsation:
+job description:
+}
+
+object: educations - unlmited
+{
+each education has
+{
+school name: 100 char
+gradate date: date
+dgree: 20 char
+points: 30 char
+}
+
+object: courses - unlmited
+{
+each course has
+{
+course name: 100 char
+hours: int
+course description: 1000 char
+}
+
+object: social
+{
+facebook: 100 char
+twitter: 100 char
+linkedin: 100 char
+github: 100 char
+}
+
+
